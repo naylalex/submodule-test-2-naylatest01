@@ -1,0 +1,6 @@
+[submodule "repos/m2-deep-learning"]
+	path = repos/m2-deep-learning
+	url = https://github.com/naylalex/m2-deep-learning.git
+[submodule "repos/docs"]
+	path = repos/docs
+	url = https://github.com/tensorflow/docs.git
